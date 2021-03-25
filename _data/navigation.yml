@@ -1,0 +1,9 @@
+# Site navigation links
+- title: < Return to main page
+  url: https://pikakid98.github.io/
+
+- title: Home
+  url: /
+
+- title: Downloads
+  url: /download
