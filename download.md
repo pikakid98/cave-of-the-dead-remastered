@@ -1,11 +1,9 @@
 ## Cave Of The Dead: Remastered
 
 ---
-layout: page
-title: Downloads
+#### [<< Return To Main Page](https://pikakid98.github.io/) | [< Return To Repo Page](https://pikakid98.github.io/cave-of-the-dead-remastered)
 ---
 
-#### [<< Return To Main Page](https://pikakid98.github.io/) [< Return To Repo Page](https://pikakid98.github.io/cave-of-the-dead-remastered)
 
 <h1>Current Build</h1>
 
